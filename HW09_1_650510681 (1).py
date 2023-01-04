@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# waraporn sonwai bour
-# 650510681
-# HW09_1
-# 204111 Sec 003
-
 def main():
   n = int(input(""))
   print(life_path(n))
